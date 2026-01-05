@@ -1,5 +1,5 @@
-# SMM-Politics
-
+# SMM-Politics  
+## Intro
 **Vielen Dank für das Herunterladen von SMM!**  
 Wenn Du das Spiel noch nie gespielt hast oder Du nicht weißt, worum es geht, kommt hier eine grobe Erläuterung, was überhaupt Deine Aufgabe ist:    
 Social-Media-Plattformen wie Instagram und TikTok weisen häufig zu geringe Moderation auf. Darunter fallen unkontrollierter Hass, Rassismus, Menschenfeindlichkeit und auch Kinderpornogrofie ("CP").  
