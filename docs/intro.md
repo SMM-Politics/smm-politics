@@ -21,4 +21,4 @@ Die Europäische Union hat die Rolle von Social-Media-Plattformen im Thema Moder
 
 Und Deine Aufgabe ist es nun, dem ganzen ein Ende zu setzen! Du schlüpfst in die Rolle eines Content-Moderators und überprüfst dabei Posts auf festgelegte Regeln bezüglich politisch kritischen Themen wie Rassismus, Frauenfeindlichkeit, Homophobie etc.  
 
-Wirst Du in der Lage sein, das Internet zu einem sichereren Ort für alle Nutzer*innen zu machen? Fahre jetzt fort zu [Level 1](level_1.md) und Finde es heraus!
+Wirst Du in der Lage sein, das Internet zu einem sichereren Ort für alle Nutzer*innen zu machen? Fahre jetzt fort zu [Level 1](level_1a.md) und Finde es heraus!
